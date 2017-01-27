@@ -6,5 +6,7 @@
   "repository": "https://github.com/ryzokuken/openquest",
   "author": "Ujjwal Sharma",
   "license": "GPL-3.0",
-  "dependencies": {}
+  "dependencies": {
+    "jsonfile": "^2.4.0"
+  }
 }
