@@ -1,0 +1,10 @@
+{
+  "name": "OpenQuest",
+  "version": "0.1.0",
+  "description": "An open source command-line RPG",
+  "main": "index.js",
+  "repository": "https://github.com/ryzokuken/openquest",
+  "author": "Ujjwal Sharma",
+  "license": "GPL-3.0",
+  "dependencies": {}
+}
